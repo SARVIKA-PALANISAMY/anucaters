@@ -14,7 +14,7 @@ const Gallery = () => {
                         <img className="d-block w-100 large" src={img1} alt="First slide" />
                     </div>
                     <Carousel.Caption>
-                        <p>Description for Image 1</p>
+                        <p>Dishes</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -22,7 +22,7 @@ const Gallery = () => {
                         <img className="d-block w-100 large" src={img2} alt="Second slide" />
                     </div>
                     <Carousel.Caption>
-                        <p>Description for Image 2</p>
+                        <p>Buffet Display</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -30,7 +30,7 @@ const Gallery = () => {
                         <img className="d-block w-100 large" src={img3} alt="Third slide" />
                     </div>
                     <Carousel.Caption>
-                        <p>Description for Image 3</p>
+                        <p>Bronchure</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -38,7 +38,7 @@ const Gallery = () => {
                         <img className="d-block w-100 large" src={img4} alt="Fourth slide" />
                     </div>
                     <Carousel.Caption>
-                        <p>Description for Image 4</p>
+                        <p>Visiting Card</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
